@@ -1,2 +1,2 @@
 # bcr-wireframe
-Axure wireframe for Bolsa de Comercio de Rosario
+Axure RP 9 wireframe for Bolsa de Comercio de Rosario
